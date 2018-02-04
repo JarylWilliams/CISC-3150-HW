@@ -1,0 +1,63 @@
+Microsoft Windows [Version 10.0.16299.19]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd CircleTest
+
+C:\Users\Jaryl\Desktop\CircleTest>cd src
+
+C:\Users\Jaryl\Desktop\CircleTest\src>javac Circle.java
+
+C:\Users\Jaryl\Desktop\CircleTest\src>java Circle
+Enter Circle#1 center coordinate:
+4 5
+Enter Circle#1 radius:
+2
+Enter Circle#2 center coordinate:
+4 3
+Enter Circle#2 radius:
+2
+The circles are overlapping!
+
+C:\Users\Jaryl\Desktop\CircleTest\src>javac Circle.java
+
+C:\Users\Jaryl\Desktop\CircleTest\src>java Circle
+Enter Circle#1 center coordinate:
+9 9
+Enter Circle#1 radius:
+4
+Enter Circle#2 center coordinate:
+0 0
+Enter Circle#2 radius:
+1
+The circles are seperated
+
+C:\Users\Jaryl\Desktop\CircleTest\src>javac Circle.java
+
+C:\Users\Jaryl\Desktop\CircleTest\src>java Circle
+Enter Circle#1 center coordinate:
+4
+4
+Enter Circle#1 radius:
+9
+Enter Circle#2 center coordinate:
+5 5
+Enter Circle#2 radius:
+2
+The circles are within each other
+
+C:\Users\Jaryl\Desktop\CircleTest\src>javac Circle.java
+
+C:\Users\Jaryl\Desktop\CircleTest\src>java Circle
+Enter Circle#1 center coordinate:
+-1 1
+Enter Circle#1 radius:
+3
+Enter Circle#2 center coordinate:
+3 -2
+Enter Circle#2 radius:
+2
+The circles are currently touching!
+
+C:\Users\Jaryl\Desktop\CircleTest\src>

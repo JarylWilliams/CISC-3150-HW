@@ -1,0 +1,25 @@
+Microsoft Windows [Version 10.0.16299.19]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd CircleArea
+
+C:\Users\Jaryl\Desktop\CircleArea>cd src
+
+C:\Users\Jaryl\Desktop\CircleArea\src>javac Area.java
+
+C:\Users\Jaryl\Desktop\CircleArea\src>java Area
+Enter radius for circle
+2
+Area of the cirle is 12.566370614359172
+Enter radius for circle
+3
+Area of the cirle is 28.274333882308138
+Enter radius for circle
+9
+Area of the cirle is 254.46900494077323
+Enter radius for circle
+^Z
+
+C:\Users\Jaryl\Desktop\CircleArea\src>

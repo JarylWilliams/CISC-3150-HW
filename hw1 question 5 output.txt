@@ -1,0 +1,61 @@
+Microsoft Windows [Version 10.0.16299.19]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd TriangleTest
+
+C:\Users\Jaryl\Desktop\TriangleTest>cd src
+
+C:\Users\Jaryl\Desktop\TriangleTest\src>javac Triangle.java
+
+C:\Users\Jaryl\Desktop\TriangleTest\src>java Triangle
+Enter x coordinate for side a
+8
+Enter y coordinate for side a
+3
+Enter x coordinate for side b
+7
+Enter y coordinate for side b
+0
+Enter x coordinate for side c
+0
+Enter y coordinate for side c
+1
+The triangle is real!
+
+C:\Users\Jaryl\Desktop\TriangleTest\src>javac Triangle.java
+
+C:\Users\Jaryl\Desktop\TriangleTest\src>java Triangle
+Enter x coordinate for side a
+35
+Enter y coordinate for side a
+34
+Enter x coordinate for side b
+3
+Enter y coordinate for side b
+3
+Enter x coordinate for side c
+15
+Enter y coordinate for side c
+14
+The triangle is real!
+
+C:\Users\Jaryl\Desktop\TriangleTest\src>javac Triangle.java
+
+C:\Users\Jaryl\Desktop\TriangleTest\src>java Triangle
+Enter x coordinate for side a
+4
+Enter y coordinate for side a
+2
+Enter x coordinate for side b
+2
+Enter y coordinate for side b
+4
+Enter x coordinate for side c
+0
+Enter y coordinate for side c
+1
+Sorry this triangle is fake
+
+C:\Users\Jaryl\Desktop\TriangleTest\src>

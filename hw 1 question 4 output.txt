@@ -1,0 +1,21 @@
+Microsoft Windows [Version 10.0.16299.19]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd FileRead
+
+C:\Users\Jaryl\Desktop\FileRead>cd src
+
+C:\Users\Jaryl\Desktop\FileRead\src>javac FileRead.java
+
+C:\Users\Jaryl\Desktop\FileRead\src>java FileRead < numbers.txt
+10
+7
+3
+8
+21
+23
+45
+
+C:\Users\Jaryl\Desktop\FileRead\src>

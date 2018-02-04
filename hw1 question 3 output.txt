@@ -1,0 +1,22 @@
+Microsoft Windows [Version 10.0.16299.19]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd RandomNumber
+
+C:\Users\Jaryl\Desktop\RandomNumber>cd src
+
+C:\Users\Jaryl\Desktop\RandomNumber\src>javac Random.java
+
+C:\Users\Jaryl\Desktop\RandomNumber\src>java Random
+2
+The month is  Febuary
+
+C:\Users\Jaryl\Desktop\RandomNumber\src>javac Random.java
+
+C:\Users\Jaryl\Desktop\RandomNumber\src>java Random
+6
+The month is June
+
+C:\Users\Jaryl\Desktop\RandomNumber\src>
